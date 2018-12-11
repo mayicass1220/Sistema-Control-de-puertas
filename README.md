@@ -38,4 +38,9 @@ comunicacion con cualquier microcontrolador y produce proyectos inalambricos.
 ![5](https://user-images.githubusercontent.com/43210622/49820527-b9fd0780-fd3d-11e8-8f6a-753488c1a4c2.JPG)
 
 ### MAQUETA
+![6](https://user-images.githubusercontent.com/43210622/49821939-54ab1580-fd41-11e8-9471-0b525b0ff33b.jpg)
+![7](https://user-images.githubusercontent.com/43210622/49821940-55dc4280-fd41-11e8-967e-04c431c3a3fc.jpg)
+![8](https://user-images.githubusercontent.com/43210622/49821941-55dc4280-fd41-11e8-9727-49ecddb5f3ef.jpeg)
+![10](https://user-images.githubusercontent.com/43210622/49821942-5674d900-fd41-11e8-8521-1e7d7de750d3.jpeg)
+
 
