@@ -29,3 +29,7 @@ ESP8266 es un modulo wifi que dara a nuestro proyecto acceso a una red inalambri
 comunicacion con cualquier microcontrolador y produce proyectos inalambricos.
 
 ### DIGRAMAS DE CONEXIÓN
+![1](https://user-images.githubusercontent.com/43210622/49820300-262b3b80-fd3d-11e8-960b-175b1c07def3.png)
+![2](https://user-images.githubusercontent.com/43210622/49820302-288d9580-fd3d-11e8-98f1-661099d2399a.png)
+
+###CÓDIGO
